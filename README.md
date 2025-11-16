@@ -1,2 +1,1 @@
-# Control-Eval-Game-Trees
-This is a no code conceptual exercise about red teaming in control evaluations
+This repository contains some of the solutions to the exercises I implemented as part of the first week of the Algoverse AI Safety Fellowship.
